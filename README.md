@@ -1,8 +1,10 @@
 # ts-basics
 Typescript Basics Dojo
 
-## Stuff to install
+## Useful links
 [NodeJS with npm, LTS](https://nodejs.org/en/download/)
+[JavaScript MDN Reference](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[Typescript](https://www.typescriptlang.org/)
 
 ## Topics to cover:
 |#|Topic|
