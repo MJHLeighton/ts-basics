@@ -2,9 +2,11 @@
 Typescript Basics Dojo
 
 ## Useful links
-[NodeJS with npm, LTS](https://nodejs.org/en/download/)
-[JavaScript MDN Reference](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[Typescript](https://www.typescriptlang.org/)
+<ul>
+<li>[NodeJS with npm, LTS](https://nodejs.org/en/download/)</li>
+<li>[JavaScript MDN Reference](https://developer.mozilla.org/en-US/docs/Web/javascript)</li>
+<li>[Typescript](https://www.typescriptlang.org/)</li>
+</ul>
 
 ## Topics to cover:
 |#|Topic|
