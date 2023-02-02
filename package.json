@@ -1,0 +1,26 @@
+{
+  "name": "ts-basics",
+  "version": "1.0.0",
+  "description": "Typescript Basics Dojo",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJHLeighton/ts-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJHLeighton/ts-basics/issues"
+  },
+  "homepage": "https://github.com/MJHLeighton/ts-basics#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "core-js": "^3.27.2"
+  }
+}

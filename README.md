@@ -18,3 +18,13 @@ Typescript Basics Dojo
 |5| TS config file|
 |6| Declaring types |
 |7| Review pros & cons of TS|
+
+## Useful commands
+<ul>
+    <li>
+    Create a node project, this will create package.json file
+    ```
+    npm init -y
+    ```
+    </li>
+</ul>
