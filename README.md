@@ -12,11 +12,11 @@ Typescript Basics Dojo
 |#|Topic|
 |---:|---------------------------|
 |1| JS loose-typing |
-|2| JS variable declarations & scope |
+|2| JS variable declarations |
 |3| JS add function |
 |4| TS to the rescue |
 |5| TS config file|
-|6| Declaring types |
+|6| Declaring simple types & interfaces |
 |7| Review pros & cons of TS|
 
 ## Useful notes
