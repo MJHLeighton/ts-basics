@@ -56,6 +56,7 @@ interface Vehicle {
     wheels: number;
     seats: number;
     fuelType: 'Petrol' | 'Diesel' | 'Electric'; // this forces one of these strings as a type
+    fancyRadio?: false // optional property
 }
 
 // a function that returns a vehicle
